@@ -14,3 +14,7 @@
 
 
 FILE INTEGRITY CECKER IS USED FOR TOOLS IS PYTHON AND VSCODE AND KALI.ORG AND QUICKREY
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/fb7e3912-6dcd-4d45-8734-7eba95b3e9d9
